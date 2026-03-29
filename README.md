@@ -80,6 +80,11 @@ This leads to:
 - 💾 **LocalStorage** for history tracking
 
 ---
+### 📁 Demo 
+
+Link - https://drive.google.com/file/d/13gbLoXnNVsQwZWAvbgaYCjKo7e7LdtYK/view?usp=sharing
+
+---
 
 ## 🧠 How It Works
 
@@ -99,3 +104,6 @@ Waste Database (wasteDB)
 Structured Result Output
         ↓
 Dashboard + History Storage
+
+
+
